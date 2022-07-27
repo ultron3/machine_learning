@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62a48aa6e830ebb5b50da53a"
+  },
+  "nome": "nurofen",
+  "prezzo": 4.67,
+  "giacenza": "600 unità",
+  "giacenza_minima": "200 unità",
+  "disponibile": [
+    "foglizzo",
+    "caluso"
+  ]
+},{
+  "_id": {
+    "$oid": "62a48bf0e830ebb5b50da53b"
+  },
+  "nome": "tachipirina",
+  "prezzo": 7.67,
+  "giacenza": "800 unità",
+  "giacenza_minima": "200 unità",
+  "disponibile": "nessuna farmacia disponibile"
+}]
